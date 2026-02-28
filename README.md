@@ -1,16 +1,40 @@
-# meal
+<div align="center">
 
-A new Flutter application.
+# 🍲 Meal App 
+### ⚠️ [Legacy Project - Archive 2021]
 
-## Getting Started
+**A recipe discovery and meal filtering application built during my early Flutter learning stages.**
 
-This project is a starting point for a Flutter application.
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Status](https://img.shields.io/badge/Status-Archived-red?style=for-the-badge)](https://github.com)
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Meal App Development" width="30%"/>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+</div>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📖 نظرة على المشروع (About This Project)
+هذا التطبيق يمثل خطوة جوهرية في رحلتي مع **Flutter عام 2021**. ركزت في هذا المشروع على تعلم كيفية عرض قوائم البيانات (Lists)، التعامل مع الفئات (Categories)، وتطبيق الفلاتر (مثل الوجبات النباتية أو الخالية من الجلوتين).
+
+> **🚀 المسار الحالي (The Modern Way):**
+> لقد تطورت مهاراتي الآن لأبني تطبيقات طعام وتجارة إلكترونية أكثر تعقيداً واحترافية (مثل مشروع **Crunch**)، مع تطبيق معايير **Clean Architecture** لضمان كود نظيف وقابل للتوسعة.
+
+---
+
+## ✨ الدروس المستفادة (Key Learning Areas)
+* 🧭 **Complex Navigation:** تعلمت التنقل بين الفئات والوجبات وتمرير البيانات.
+* 🔍 **Data Filtering:** تطبيق منطق الفرز بناءً على تفضيلات المستخدم.
+* 🖼️ **Asset Management:** التعامل مع الصور وتنسيق الـ Cards بشكل جذاب.
+* 💾 **State Logic:** فهم كيفية تحديث الواجهة بناءً على اختيارات المستخدم.
+
+## 🛠️ البناء التقني القديم (Technical Stack - 2021)
+* **UI Focus:** استخدام الـ GridView والـ ListView وتخصيص الـ Widgets.
+* **Logic:** تطبيق خوارزميات تصفية البيانات البسيطة.
+* **Architecture:** نظام الطبقات التقليدي للمبتدئين.
+
+---
+
+## 🏗️ لماذا هذا المشروع في الأرشيف؟
+يعد مشروع **meal** دليلاً على:
+1. **الأساس المتين:** إتقان التعامل مع
